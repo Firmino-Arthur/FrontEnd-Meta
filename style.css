@@ -1,26 +1,15 @@
-body{
-    background-color: #E0E0E2;
+img {
+    border: 2px solid blue;
 }
 
-h1{
-    color: #721817;
+h1 {
+    color: blue;
 }
 
-h2{
-    color: #721817; 
+h2 {
+    color: grey;
 }
 
-.center-text{
-    text-align: center;
-}
-
-#id{
-    align-items: left;
-    margin: auto;
-    display: block;
-}
-
-h2 > span{
-    color: #FA9F42;
-    font-size: 0.75em;
+div {
+    margin: 4px;
 }
